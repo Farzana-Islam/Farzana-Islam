@@ -4,6 +4,7 @@
 - 📫 How to reach me farzana.islam01@northsouth.edu
 
 <!---
-Farzana-Islam/Farzana-Islam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Currently I am working as a Lab Instructor (teaching Programming Language I and II (C/C++) and Object Oriented Programming Language (JAVA) for undergraduate students). 
+I have been completed my undergrad program in Computer Science and Engineering (CSE) with Cum Laude distinction from the North South University (NSU). 
+I have been started my research career back in 2016 and I have some international publications. My research area includes Responsible AI, AI ethics, Artificial Intelligence, Machine Learning, Human-AI Interaction, HCI, Fuzzy Logic and Data Mining.
 --->
