@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 - 👋 Hi, I'm @Farzana-Islam
 - 🔬 I research Human-Centered AI, Explainable ML, and AI Safety
 - 🤖 Currently working on LLM evaluation, studying over-reliance and bias in clinical recommendation systems
