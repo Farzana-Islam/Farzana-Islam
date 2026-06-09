@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Farzana Islam
 - 🔬 I research Human-Centered AI, Explainable ML, and AI Safety
-- 🤖 Currently working on LLM evaluation to measure bias and explaniabilty in high stake somains e.g., clinical recommendation systems
+- 🤖 Currently working on LLM evaluation to measure bias and explaniabilty in high stake domains e.g., clinical recommendation systems
 - 📄 Published in JMIR, ACM CHI, IEEE, Springer, and Oxford University Press
 - 🌏 Passionate about AI safety and trustworthy AI for underrepresented communities
 - 🔗 Find me on LinkedIn: https://linkedin.com/in/farzanaa-islam
